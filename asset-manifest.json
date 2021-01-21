@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react_app/static/css/main.4d467896.chunk.css",
+    "main.js": "/react_app/static/js/main.ae3081d5.chunk.js",
+    "main.js.map": "/react_app/static/js/main.ae3081d5.chunk.js.map",
+    "runtime-main.js": "/react_app/static/js/runtime-main.4ee6f1b8.js",
+    "runtime-main.js.map": "/react_app/static/js/runtime-main.4ee6f1b8.js.map",
+    "static/js/2.98d6bbfe.chunk.js": "/react_app/static/js/2.98d6bbfe.chunk.js",
+    "static/js/2.98d6bbfe.chunk.js.map": "/react_app/static/js/2.98d6bbfe.chunk.js.map",
+    "index.html": "/react_app/index.html",
+    "static/css/main.4d467896.chunk.css.map": "/react_app/static/css/main.4d467896.chunk.css.map",
+    "static/js/2.98d6bbfe.chunk.js.LICENSE.txt": "/react_app/static/js/2.98d6bbfe.chunk.js.LICENSE.txt",
+    "static/media/bitcoin-icon.bf4fc7f8.png": "/react_app/static/media/bitcoin-icon.bf4fc7f8.png",
+    "static/media/papers.png": "/react_app/static/media/papers.9dfd9ab9.png",
+    "static/media/piggybank.a0cce595.png": "/react_app/static/media/piggybank.a0cce595.png",
+    "static/media/svg-1.198c8835.svg": "/react_app/static/media/svg-1.198c8835.svg",
+    "static/media/svg-3.5394e075.svg": "/react_app/static/media/svg-3.5394e075.svg",
+    "static/media/svg-5.b8e41778.svg": "/react_app/static/media/svg-5.b8e41778.svg",
+    "static/media/svg-6.037927c3.svg": "/react_app/static/media/svg-6.037927c3.svg",
+    "static/media/video.a2703484.mp4": "/react_app/static/media/video.a2703484.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ee6f1b8.js",
+    "static/js/2.98d6bbfe.chunk.js",
+    "static/css/main.4d467896.chunk.css",
+    "static/js/main.ae3081d5.chunk.js"
+  ]
+}
